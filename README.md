@@ -1,6 +1,6 @@
 ## CTF/Dev Setup:
 
-My configurations are all found <a href="https://github.com/nixosrc">here</a>. I use NixOS exclusively.
+My configurations are all found <a href="https://github.com/novafacing/nixosrc">here</a>. I use NixOS exclusively.
 
 ## Stats
 
