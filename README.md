@@ -5,6 +5,7 @@ My configurations are all found <a href="https://github.com/novafacing/nixosrc">
 ## Stats
 
 Fun graphs!
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=novafacing&count_private=true&theme=synthwave)
 
 
