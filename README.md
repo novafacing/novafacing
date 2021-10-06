@@ -1,7 +1,9 @@
 ## CTF/Dev Setup:
 
-My configurations are all found <a href="https://github.com/novafacing/nixosrc">here</a>. I use NixOS exclusively.
+~~My configurations are all found <a href="https://github.com/novafacing/nixosrc">here</a>. I use NixOS exclusively.~~
 
+Just kidding, I don't like spending 10 hours making a vim plugin work any more. I'm back to Ubuntu, and my configs are at <a href="https://github.com/novafacing/ubuntu-rc">
+  
 ## Stats
 
 Fun graphs!
