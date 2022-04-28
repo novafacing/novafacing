@@ -5,7 +5,7 @@ I'm a graduate student and researcher at Purdue University and a vulnerability r
 | `(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧` | Fuzzing |
 | `(づ◡﹏◡)づ`  |  Symbolic execution/symbolic tracing |
 | `(｡•̀ᴗ-)✧`   |   Source-assisted program analysis |
-| `ʕ •̀ ω •́ ʔ`  |  Compilers and LLVM |
+| `ʕ •̀ ω •́ ʔ`  |  Compiler-based security, code habit enforcement with LLVM |
 
 ## Setup:
 
