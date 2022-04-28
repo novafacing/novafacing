@@ -16,3 +16,5 @@ I'm a ricer and I'm using Ubuntu right now. My configs are in [this repo](https:
 Fun graphs!
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=novafacing&count_private=true&theme=gruvbox)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novafacing&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+You can find my resume [here](https://github.com/novafacing/resumes) if you'd like.
