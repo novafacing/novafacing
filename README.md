@@ -1,9 +1,10 @@
 I'm a graduate student and researcher at Purdue University and a vulnerability researcher. Right now, I am interested in:
 
-* (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ Fuzzing
-* (づ◡﹏◡)づ    Symbolic execution/symbolic tracing
-* (｡•̀ᴗ-)✧      Source-assisted program analysis
-* ʕ •̀ ω •́ ʔ    Compilers and LLVM
+| --- | --- |
+| `(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧` | Fuzzing |
+| `(づ◡﹏◡)づ`  |  Symbolic execution/symbolic tracing |
+| `(｡•̀ᴗ-)✧`   |   Source-assisted program analysis |
+| `ʕ •̀ ω •́ ʔ`  |  Compilers and LLVM |
 
 ## Setup:
 
