@@ -1,11 +1,21 @@
 I'm a graduate student and researcher at Purdue University and a vulnerability researcher. Right now, I am interested in:
 
 | | |
-| --- | --- |
+| :-: | --- |
 | `(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧` | Fuzzing |
 | `(づ◡﹏◡)づ`  |  Symbolic execution/symbolic tracing |
 | `(｡•̀ᴗ-)✧`   |   Source-assisted program analysis |
 | `ʕ •̀ ω •́ ʔ`  |  Compiler-based security, code habit enforcement with LLVM |
+
+And I like to program in:
+
+| | | |
+| :-: | --- | --- |
+| `(´• ω •`)` | Python | |
+| `(✧ω✧)` | Rust | |
+| `(っ˘ω˘ς )` | C | |
+| `(o˘◡˘o)` | C++ | |
+| `(„• ֊ •„)` | Typescript | |
 
 ## Setup:
 
@@ -15,6 +25,6 @@ I'm a ricer and I'm using Ubuntu right now. My configs are in [this repo](https:
 
 Fun graphs!
 
-![Stats](https://github-readme-stats.vercel.app/api?username=novafacing&count_private=true&theme=gruvbox)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novafacing&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](https://github-readme-stats.vercel.app/api?username=novafacing&count_private=true&theme=gruvbox) 
 
 You can find my resume [here](https://github.com/novafacing/resumes) if you'd like.
