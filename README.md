@@ -9,13 +9,13 @@ I'm a graduate student and researcher at Purdue University and a vulnerability r
 
 And I like to program in:
 
-| | | |
+| | | Projects! |
 | :-: | --- | --- |
-| `(´• ω •`)` | Python | |
-| `(✧ω✧)` | Rust | |
-| `(っ˘ω˘ς )` | C | |
-| `(o˘◡˘o)` | C++ | |
-| `(„• ֊ •„)` | Typescript | |
+| `(´• ω •`)` | Python | [systabs](https://github.com/novafacing/systabs) |
+| `(✧ω✧)` | Rust | [libc-fuzzer](https://github.com/novafacing/libc-fuzzer) |
+| `(っ˘ω˘ς )` | C | [challenges](https://github.com/novafacing/challenges) |
+| `(o˘◡˘o)` | C++ | [eastwoody-tidy](https://github.com/novafacing/eastwood-tidy-public) |
+| `(„• ֊ •„)` | Typescript | [vscdbg](https://github.com/novafacing/vscdbg) |
 
 ## Setup:
 
