@@ -20,6 +20,8 @@ And I like to program in:
 ## Setup:
 
 I'm a ricer and I'm using Ubuntu right now. My configs are in [this repo](https://github.com/novafacing/ubuntu-rc) If you're interested in my old NixOS configs, you can find them [here](https://github.com/novafacing/nixosrc).
+
+Color scheme: [gruvbox](https://github.com/novafacing/gruvbox-colors.git)
   
 ## Stats
 
