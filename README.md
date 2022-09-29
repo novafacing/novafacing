@@ -25,8 +25,4 @@ Color scheme: [gruvbox](https://github.com/novafacing/gruvbox-colors.git)
   
 ## Stats
 
-Fun graphs!
-
-![Stats](https://github-readme-stats.vercel.app/api?username=novafacing&count_private=true&theme=gruvbox) 
-
 You can find my resume [here](https://github.com/novafacing/resumes) if you'd like.
