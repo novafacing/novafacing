@@ -23,6 +23,11 @@ I'm a ricer and I'm using Fedora right now. My configs are in [this repo](https:
 
 Color scheme: [gruvbox](https://github.com/novafacing/gruvbox-colors.git)
   
-## Stats
+## Links:
+
+* [Mastodon](https://infosec.exchange/@novafacing)
+* [Twitter](https://twitter.com/novafacing)
+* [Cohost](https://cohost.org/novafacing)
 
 You can find my resume [here](https://github.com/novafacing/resumes) if you'd like.
+
