@@ -25,7 +25,7 @@ Color scheme: [gruvbox](https://github.com/novafacing/gruvbox-colors.git)
   
 ## Links:
 
-* [Mastodon](https://infosec.exchange/@novafacing)
+* <a rel="me" href="https://infosec.exchange/@novafacing">Mastodon</a>
 * [Twitter](https://twitter.com/novafacing)
 * [Cohost](https://cohost.org/novafacing)
 
