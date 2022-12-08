@@ -30,5 +30,3 @@ Color scheme: [gruvbox](https://github.com/novafacing/gruvbox-colors.git)
 * [Cohost](https://cohost.org/novafacing)
 
 You can find my resume [here](https://github.com/novafacing/resumes) if you'd like.
-
-<img style="background-color: #2d2b55;" height="137.3px" src="https://github-readme-stats.novafacing.vercel.app/api/top-langs/?username=novafacing&hide=html,assembly&hide_title=true&hide_border=true&layout=compact&langs_count=7&theme=shades-of-purple&rx=0" />
