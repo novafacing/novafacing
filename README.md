@@ -1,4 +1,5 @@
-I'm a graduate student and researcher at Purdue University and a vulnerability researcher. Right now, I am interested in:
+I'm a security researcher mostly working in fuzzing system software (kernel drivers, hypervisors, firmware)
+and I do a few other things as a hobby :)
 
 | | |
 | :-: | --- |
@@ -12,9 +13,9 @@ And I like to program in:
 | | | Projects! |
 | :-: | --- | --- |
 | `(´• ω •`)` | Python | [systabs](https://github.com/novafacing/systabs) |
-| `(✧ω✧)` | Rust | [libc-fuzzer](https://github.com/novafacing/libc-fuzzer) |
+| `(✧ω✧)` | Rust | [libc-fuzzer](https://github.com/novafacing/cannonball) |
 | `(っ˘ω˘ς )` | C | [challenges](https://github.com/novafacing/challenges) |
-| `(o˘◡˘o)` | C++ | [eastwoody-tidy](https://github.com/novafacing/eastwood-tidy-public) |
+| `(o˘◡˘o)` | C++ | [eastwoody-tidy](https://github.com/novafacing/eastwood-tidy) |
 | `(„• ֊ •„)` | Typescript | [vscdbg](https://github.com/novafacing/vscdbg) |
 
 ## Setup:
